@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082113931046:jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="TextGenAspectDescriptor.java">
+      <unit at="52,0,55,0" name="SkateboardLanguage.textGen.TextGenAspectDescriptor$CONCEPTS" />
+      <unit at="56,0,59,0" name="SkateboardLanguage.textGen.TextGenAspectDescriptor$PROPS" />
+      <unit at="18,0,60,0" name="SkateboardLanguage.textGen.TextGenAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:693a7d49-af40-4b1a-b63a-a5c7403c417d(SkateboardLanguage.textGen)/3566101906064786510">
+    <file name="Skateboard_TextGen.java">
+      <node id="3566101906064786510" at="16,54,17,55" concept="6" />
+      <node id="8625014824641519806" at="17,55,18,3127" concept="6" />
+      <node id="8625014824641935981" at="18,3127,19,42" concept="2" />
+      <node id="3566101906064786510" at="23,0,24,0" concept="9" trace="body$iGY4" />
+      <node id="3566101906064786510" at="24,0,25,0" concept="9" trace="length$sgKc" />
+      <node id="3566101906064786510" at="25,0,26,0" concept="9" trace="width$vXOh" />
+      <node id="3566101906064786510" at="26,0,27,0" concept="9" trace="color$nS6z" />
+      <node id="3566101906064786510" at="27,0,28,0" concept="9" trace="wheel$Cdtz" />
+      <node id="3566101906064786510" at="28,0,29,0" concept="9" trace="size$cYvs" />
+      <node id="3566101906064786510" at="29,0,30,0" concept="9" trace="shape$Ext3" />
+      <node id="3566101906064786510" at="30,0,31,0" concept="9" trace="color$lRYX" />
+      <node id="3566101906064786510" at="31,0,32,0" concept="9" trace="truck$dza_" />
+      <node id="3566101906064786510" at="32,0,33,0" concept="9" trace="color$H8wU" />
+      <node id="3566101906064786510" at="33,0,34,0" concept="9" trace="boltsColor$6ayo" />
+      <node id="3566101906064786510" at="34,0,35,0" concept="9" trace="decoration$CEy" />
+      <node id="3566101906064786510" at="35,0,36,0" concept="9" trace="shape$j6Dj" />
+      <node id="3566101906064786510" at="36,0,37,0" concept="9" trace="color$F$VI" />
+      <node id="3566101906064786510" at="37,0,38,0" concept="9" trace="size$KwkI" />
+      <node id="3566101906064786510" at="38,0,39,0" concept="9" trace="gridtape$Qhka" />
+      <node id="3566101906064786510" at="39,0,40,0" concept="9" trace="size$HBSv" />
+      <node id="3566101906064786510" at="40,0,41,0" concept="9" trace="color$$WYs" />
+      <node id="3566101906064786510" at="41,0,42,0" concept="9" trace="rails$QSdM" />
+      <node id="3566101906064786510" at="42,0,43,0" concept="9" trace="size$XD0w" />
+      <node id="3566101906064786510" at="43,0,44,0" concept="9" trace="color$yBzt" />
+      <node id="3566101906064786510" at="44,0,45,0" concept="9" trace="risers$TvPL" />
+      <node id="3566101906064786510" at="45,0,46,0" concept="9" trace="size$Mieu" />
+      <node id="3566101906064786510" at="46,0,47,0" concept="9" trace="color$ExCS" />
+      <node id="3566101906064786510" at="50,0,51,0" concept="9" trace="body$888T" />
+      <node id="3566101906064786510" at="51,0,52,0" concept="9" trace="length$HCxR" />
+      <node id="3566101906064786510" at="52,0,53,0" concept="9" trace="width$H6MZ" />
+      <node id="3566101906064786510" at="53,0,54,0" concept="9" trace="color$j3R6" />
+      <node id="3566101906064786510" at="54,0,55,0" concept="9" trace="size$_Bfr" />
+      <node id="3566101906064786510" at="55,0,56,0" concept="9" trace="shape$oLSw" />
+      <node id="3566101906064786510" at="56,0,57,0" concept="9" trace="color$CTbS" />
+      <node id="3566101906064786510" at="57,0,58,0" concept="9" trace="color$jpRP" />
+      <node id="3566101906064786510" at="58,0,59,0" concept="9" trace="shape$KCPL" />
+      <node id="3566101906064786510" at="59,0,60,0" concept="9" trace="size$k75S" />
+      <node id="3566101906064786510" at="60,0,61,0" concept="9" trace="size$eKqS" />
+      <node id="3566101906064786510" at="61,0,62,0" concept="9" trace="color$cK0N" />
+      <node id="3566101906064786510" at="62,0,63,0" concept="9" trace="size$OBaJ" />
+      <node id="3566101906064786510" at="63,0,64,0" concept="9" trace="size$OfhO" />
+      <node id="3566101906064786510" at="64,0,65,0" concept="9" trace="color$5IHU" />
+      <node id="3566101906064786510" at="15,0,21,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="3566101906064786510" at="16,54,19,42">
+        <var name="skateboard" id="8625014824641519807" />
+        <var name="tgs" id="3566101906064786510" />
+      </scope>
+      <scope id="3566101906064786510" at="15,0,21,0">
+        <var name="ctx" id="3566101906064786510" />
+      </scope>
+      <unit id="3566101906064786510" at="49,0,66,0" name="SkateboardLanguage.textGen.Skateboard_TextGen$PROPS" />
+      <unit id="3566101906064786510" at="22,0,48,0" name="SkateboardLanguage.textGen.Skateboard_TextGen$LINKS" />
+      <unit id="3566101906064786510" at="14,0,67,0" name="SkateboardLanguage.textGen.Skateboard_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="3566101906064786510" at="28,44,29,40" concept="7" />
+      <node id="3566101906064786510" at="37,61,38,52" concept="6" />
+      <node id="3566101906064786510" at="38,52,39,55" concept="6" />
+      <node id="3566101906064786510" at="39,55,40,84" concept="2" />
+      <node id="3566101906064786510" at="40,84,41,17" concept="1" />
+      <node id="3566101906064795479" at="45,60,46,64" concept="7" />
+      <node id="3566101906064800910" at="48,65,49,18" concept="7" />
+      <node id="3566101906064786510" at="45,0,48,0" concept="10" trace="getFileName_Skateboard#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="3566101906064786510" at="48,0,51,0" concept="10" trace="getFileExtension_Skateboard#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="3566101906064786510" at="36,58,42,7" concept="4" />
+      <scope id="3566101906064786510" at="28,44,29,40" />
+      <scope id="3566101906064786510" at="45,60,46,64" />
+      <scope id="3566101906064786510" at="48,65,49,18" />
+      <scope id="3566101906064786510" at="45,0,48,0">
+        <var name="node" id="3566101906064786510" />
+      </scope>
+      <scope id="3566101906064786510" at="48,0,51,0">
+        <var name="node" id="3566101906064786510" />
+      </scope>
+      <scope id="3566101906064786510" at="37,61,41,17">
+        <var name="ext" id="3566101906064786510" />
+        <var name="fname" id="3566101906064786510" />
+      </scope>
+    </file>
+  </root>
+  <root nodeRef="r:693a7d49-af40-4b1a-b63a-a5c7403c417d(SkateboardLanguage.textGen)/3566101906064871484">
+    <file name="SkateboardTemplate.java">
+      <node id="3566101906064874890" at="7,0,8,0" concept="3" trace="bodyType" />
+      <node id="3566101906064874951" at="8,0,9,0" concept="3" trace="length" />
+      <node id="3566101906064875012" at="9,0,10,0" concept="3" trace="width" />
+      <node id="3566101906064878123" at="10,0,11,0" concept="3" trace="bodyColor" />
+      <node id="3566101906064878717" at="11,0,12,0" concept="3" trace="foldable" />
+      <node id="3566101906064875105" at="12,0,13,0" concept="3" trace="wheelSize" />
+      <node id="3566101906064875193" at="13,0,14,0" concept="3" trace="wheelShape" />
+      <node id="3566101906064879094" at="14,0,15,0" concept="3" trace="wheelColor" />
+      <node id="3566101906064879471" at="15,0,16,0" concept="3" trace="wheelDecoration" />
+      <node id="3566101906064879848" at="16,0,17,0" concept="3" trace="truckColor" />
+      <node id="3566101906064875290" at="17,0,18,0" concept="3" trace="boltsColor" />
+      <node id="3566101906064876238" at="18,0,19,0" concept="3" trace="bodyDecorationShape" />
+      <node id="3566101906064876389" at="19,0,20,0" concept="3" trace="bodyDecorationColor" />
+      <node id="3566101906064876539" at="20,0,21,0" concept="3" trace="bodyDecorationSize" />
+      <node id="3566101906064876886" at="21,0,22,0" concept="3" trace="bodyGridTapeSize" />
+      <node id="3566101906064877073" at="22,0,23,0" concept="3" trace="bodyGridTapeColor" />
+      <node id="3566101906064877474" at="23,0,24,0" concept="3" trace="bodyRailsSize" />
+      <node id="3566101906064880335" at="24,0,25,0" concept="3" trace="bodyRailsColor" />
+      <node id="3566101906064877678" at="25,0,26,0" concept="3" trace="truckRisersSize" />
+      <node id="3566101906064877891" at="26,0,27,0" concept="3" trace="truckRisersColor" />
+      <node id="3566101906064899913" at="28,552,29,0" concept="8" />
+      <node id="3566101906064899987" at="29,0,30,29" concept="2" />
+      <node id="3566101906064902069" at="30,29,31,25" concept="2" />
+      <node id="3566101906064902467" at="31,25,32,23" concept="2" />
+      <node id="3566101906064904632" at="32,23,33,31" concept="2" />
+      <node id="3566101906064905347" at="33,31,34,26" concept="2" />
+      <node id="3566101906064907979" at="34,26,35,31" concept="2" />
+      <node id="3566101906064910689" at="35,31,36,33" concept="2" />
+      <node id="3566101906064913265" at="36,33,37,33" concept="2" />
+      <node id="3566101906064914925" at="37,33,38,40" concept="2" />
+      <node id="3566101906064917878" at="38,40,39,33" concept="2" />
+      <node id="3566101906064920903" at="39,33,40,33" concept="2" />
+      <node id="3566101906064922806" at="40,33,41,51" concept="2" />
+      <node id="3566101906064926485" at="41,51,42,51" concept="2" />
+      <node id="3566101906064930227" at="42,51,43,49" concept="2" />
+      <node id="3566101906064931958" at="43,49,44,45" concept="2" />
+      <node id="3566101906064935438" at="44,45,45,47" concept="2" />
+      <node id="3566101906064938253" at="45,47,46,39" concept="2" />
+      <node id="3566101906064942968" at="46,39,47,41" concept="2" />
+      <node id="3566101906064947007" at="47,41,48,43" concept="2" />
+      <node id="3566101906064949585" at="48,43,49,45" concept="2" />
+      <node id="3566101906064956133" at="52,28,53,153" concept="7" />
+      <node id="3566101906064961416" at="56,27,57,38" concept="7" />
+      <node id="3566101906064966118" at="60,29,61,862" concept="7" />
+      <node id="5476291445460928411" at="64,30,65,3464" concept="7" />
+      <node id="8625014824641498113" at="68,32,69,63" concept="7" />
+      <node id="3566101906064955429" at="52,0,55,0" concept="5" trace="includes#()Ljava/lang/String;" />
+      <node id="3566101906064960626" at="56,0,59,0" concept="5" trace="globals#()Ljava/lang/String;" />
+      <node id="3566101906064965347" at="60,0,63,0" concept="5" trace="variables#()Ljava/lang/String;" />
+      <node id="5476291445460925471" at="64,0,67,0" concept="5" trace="mainModule#()Ljava/lang/String;" />
+      <node id="8625014824641496158" at="68,0,71,0" concept="5" trace="mainTemplate#()Ljava/lang/String;" />
+      <node id="3566101906064880621" at="28,0,51,0" concept="0" trace="SkateboardTemplate#(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Boolean;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Boolean;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V" />
+      <scope id="3566101906064955432" at="52,28,53,153" />
+      <scope id="3566101906064960629" at="56,27,57,38" />
+      <scope id="3566101906064965350" at="60,29,61,862" />
+      <scope id="5476291445460925474" at="64,30,65,3464" />
+      <scope id="8625014824641496161" at="68,32,69,63" />
+      <scope id="3566101906064955429" at="52,0,55,0" />
+      <scope id="3566101906064960626" at="56,0,59,0" />
+      <scope id="3566101906064965347" at="60,0,63,0" />
+      <scope id="5476291445460925471" at="64,0,67,0" />
+      <scope id="8625014824641496158" at="68,0,71,0" />
+      <scope id="3566101906064880624" at="28,552,49,45" />
+      <scope id="3566101906064880621" at="28,0,51,0">
+        <var name="bodyColorInput" id="3566101906064881074" />
+        <var name="bodyDecorationColorInput" id="3566101906064882502" />
+        <var name="bodyDecorationShapeInput" id="3566101906064882392" />
+        <var name="bodyDecorationSizeInput" id="3566101906064882632" />
+        <var name="bodyGridTapeColorInput" id="3566101906064882914" />
+        <var name="bodyGridTapeSizeInput" id="3566101906064882744" />
+        <var name="bodyRailsColorInput" id="3566101906064883258" />
+        <var name="bodyRailsSizeInput" id="3566101906064883102" />
+        <var name="bodyTypeInput" id="3566101906064880715" />
+        <var name="boltsColorInput" id="3566101906064882266" />
+        <var name="isFoldable" id="3566101906064881220" />
+        <var name="isWheelDecoration" id="3566101906064882042" />
+        <var name="lengthInput" id="3566101906064880857" />
+        <var name="truckColorInput" id="3566101906064882198" />
+        <var name="truckRisersColorInput" id="3566101906064883610" />
+        <var name="truckRisersSizeInput" id="3566101906064883416" />
+        <var name="wheelColorInput" id="3566101906064881924" />
+        <var name="wheelShapeInput" id="3566101906064881464" />
+        <var name="wheelSizeInput" id="3566101906064881314" />
+        <var name="widthInput" id="3566101906064880946" />
+      </scope>
+      <unit id="3566101906064871484" at="6,0,72,0" name="SkateboardLanguage.textGen.SkateboardTemplate" />
+    </file>
+  </root>
+</debug-info>
+

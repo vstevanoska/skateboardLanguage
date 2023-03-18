@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,214,0" name="SkateboardLanguage.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,74,0" name="SkateboardLanguage.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="18,0,348,0" name="SkateboardLanguage.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846819242">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846819242" at="28,0,29,0" concept="2" trace="props_Skateboard" />
+      <node id="7225199418846819242" at="155,39,156,76" concept="5" />
+      <node id="7225199418846819242" at="156,76,157,35" concept="1" />
+      <node id="7225199418846819242" at="157,35,158,42" concept="1" />
+      <node id="7225199418846819242" at="159,9,160,32" concept="6" />
+      <node id="7225199418846819242" at="154,44,159,9" concept="3" />
+      <scope id="7225199418846819242" at="155,39,158,42">
+        <var name="cpb" id="7225199418846819242" />
+      </scope>
+      <scope id="7225199418846819242" at="154,44,160,32" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846819242" at="28,0,29,0" concept="7" trace="Skateboard" />
+      <node id="7225199418846819242" at="54,49,55,49" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846819242" at="35,0,36,0" concept="2" trace="myConceptSkateboard" />
+      <node id="7225199418846819242" at="105,44,106,35" concept="6" />
+      <node id="7225199418846819242" at="268,68,269,162" concept="5" />
+      <node id="7225199418846819242" at="269,162,270,33" concept="1" />
+      <node id="7225199418846819242" at="270,33,271,71" concept="1" />
+      <node id="7225199418846819242" at="271,71,272,105" concept="1" />
+      <node id="7225199418846819242" at="272,105,273,17" concept="1" />
+      <node id="7225199418846847654" at="273,17,274,197" concept="1" />
+      <node id="7225199418846866769" at="274,197,275,198" concept="1" />
+      <node id="7225199418846894329" at="275,198,276,197" concept="1" />
+      <node id="7225199418846913158" at="276,197,277,197" concept="1" />
+      <node id="7225199418846918127" at="277,197,278,200" concept="1" />
+      <node id="7225199418846932441" at="278,200,279,197" concept="1" />
+      <node id="7225199418846998366" at="279,197,280,197" concept="1" />
+      <node id="7225199418847009066" at="280,197,281,202" concept="1" />
+      <node id="7225199418847058123" at="281,202,282,200" concept="1" />
+      <node id="7225199418847075720" at="282,200,283,197" concept="1" />
+      <node id="7225199418847087247" at="283,197,284,198" concept="1" />
+      <node id="7225199418846819242" at="284,198,285,22" concept="6" />
+      <node id="7225199418846819242" at="268,0,287,0" concept="8" trace="createDescriptorForSkateboard#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846819242" at="105,44,106,35" />
+      <scope id="7225199418846819242" at="268,68,285,22">
+        <var name="b" id="7225199418846819242" />
+      </scope>
+      <scope id="7225199418846819242" at="268,0,287,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846844418">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846844418" at="12,0,13,0" concept="2" trace="props_Body" />
+      <node id="7225199418846844418" at="43,33,44,76" concept="5" />
+      <node id="7225199418846844418" at="44,76,45,38" concept="1" />
+      <node id="7225199418846844418" at="45,38,46,36" concept="1" />
+      <node id="7225199418846844418" at="47,9,48,26" concept="6" />
+      <node id="7225199418846844418" at="42,38,47,9" concept="3" />
+      <scope id="7225199418846844418" at="43,33,46,36">
+        <var name="cpb" id="7225199418846844418" />
+      </scope>
+      <scope id="7225199418846844418" at="42,38,48,26" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846844418" at="12,0,13,0" concept="7" trace="Body" />
+      <node id="7225199418846844418" at="38,115,39,43" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846844418" at="19,0,20,0" concept="2" trace="myConceptBody" />
+      <node id="7225199418846844418" at="73,38,74,29" concept="6" />
+      <node id="7225199418846844418" at="135,62,136,156" concept="5" />
+      <node id="7225199418846844418" at="136,156,137,34" concept="1" />
+      <node id="7225199418846844418" at="137,34,138,105" concept="1" />
+      <node id="7225199418846844418" at="138,105,139,17" concept="1" />
+      <node id="7225199418846844835" at="139,17,140,174" concept="1" />
+      <node id="7225199418846844418" at="140,174,141,22" concept="6" />
+      <node id="7225199418846844418" at="135,0,143,0" concept="8" trace="createDescriptorForBody#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846844418" at="73,38,74,29" />
+      <scope id="7225199418846844418" at="135,62,141,22">
+        <var name="b" id="7225199418846844418" />
+      </scope>
+      <scope id="7225199418846844418" at="135,0,143,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846845695">
+    <file name="EnumerationDescriptor_BodyEnum.java">
+      <node id="7225199418846845695" at="14,43,15,176" concept="9" />
+      <node id="7225199418846845696" at="18,0,19,0" concept="2" trace="myMember_standard_0" />
+      <node id="7225199418846845723" at="19,0,20,0" concept="2" trace="myMember_carver_0" />
+      <node id="7225199418846845726" at="20,0,21,0" concept="2" trace="myMember_downhill_0" />
+      <node id="7225199418846845695" at="22,0,23,0" concept="2" trace="myIndex" />
+      <node id="7225199418846845695" at="23,0,24,0" concept="2" trace="myMembers" />
+      <node id="7225199418846845695" at="27,62,28,16" concept="6" />
+      <node id="7225199418846845695" at="33,68,34,21" concept="6" />
+      <node id="7225199418846845695" at="40,29,41,18" concept="6" />
+      <node id="7225199418846845696" at="44,22,45,35" concept="6" />
+      <node id="7225199418846845723" at="46,20,47,33" concept="6" />
+      <node id="7225199418846845726" at="48,22,49,35" concept="6" />
+      <node id="7225199418846845695" at="50,5,51,16" concept="6" />
+      <node id="7225199418846845695" at="56,73,57,39" concept="5" />
+      <node id="7225199418846845695" at="58,22,59,18" concept="6" />
+      <node id="7225199418846845695" at="60,5,61,32" concept="6" />
+      <node id="7225199418846845695" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_BodyEnum#()V" />
+      <node id="7225199418846845695" at="39,88,42,5" concept="3" />
+      <node id="7225199418846845695" at="57,39,60,5" concept="3" />
+      <node id="7225199418846845695" at="25,0,30,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846845695" at="31,0,36,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418846845695" at="42,5,50,5" concept="10" />
+      <node id="7225199418846845695" at="54,0,63,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846845695" at="37,0,53,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418846845695" at="14,43,15,176" />
+      <scope id="7225199418846845695" at="27,62,28,16" />
+      <scope id="7225199418846845695" at="33,68,34,21" />
+      <scope id="7225199418846845695" at="40,29,41,18" />
+      <scope id="7225199418846845696" at="44,22,45,35" />
+      <scope id="7225199418846845723" at="46,20,47,33" />
+      <scope id="7225199418846845726" at="48,22,49,35" />
+      <scope id="7225199418846845695" at="58,22,59,18" />
+      <scope id="7225199418846845695" at="14,0,17,0" />
+      <scope id="7225199418846845695" at="25,0,30,0" />
+      <scope id="7225199418846845695" at="31,0,36,0" />
+      <scope id="7225199418846845695" at="56,73,61,32">
+        <var name="index" id="7225199418846845695" />
+      </scope>
+      <scope id="7225199418846845695" at="54,0,63,0">
+        <var name="idValue" id="7225199418846845695" />
+      </scope>
+      <scope id="7225199418846845695" at="39,88,51,16" />
+      <scope id="7225199418846845695" at="37,0,53,0">
+        <var name="memberName" id="7225199418846845695" />
+      </scope>
+      <unit id="7225199418846845695" at="12,0,64,0" name="SkateboardLanguage.structure.EnumerationDescriptor_BodyEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846845695" at="43,0,44,0" concept="2" trace="myEnumerationBodyEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846864206">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846864206" at="22,0,23,0" concept="2" trace="props_Length" />
+      <node id="7225199418846864206" at="113,35,114,76" concept="5" />
+      <node id="7225199418846864206" at="114,76,115,40" concept="1" />
+      <node id="7225199418846864206" at="115,40,116,38" concept="1" />
+      <node id="7225199418846864206" at="117,9,118,28" concept="6" />
+      <node id="7225199418846864206" at="112,40,117,9" concept="3" />
+      <scope id="7225199418846864206" at="113,35,116,38">
+        <var name="cpb" id="7225199418846864206" />
+      </scope>
+      <scope id="7225199418846864206" at="112,40,118,28" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846864206" at="22,0,23,0" concept="7" trace="Length" />
+      <node id="7225199418846864206" at="48,51,49,45" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846864206" at="29,0,30,0" concept="2" trace="myConceptLength" />
+      <node id="7225199418846864206" at="93,40,94,31" concept="6" />
+      <node id="7225199418846864206" at="218,64,219,158" concept="5" />
+      <node id="7225199418846864206" at="219,158,220,34" concept="1" />
+      <node id="7225199418846864206" at="220,34,221,105" concept="1" />
+      <node id="7225199418846864206" at="221,105,222,17" concept="1" />
+      <node id="7225199418846865248" at="222,17,223,176" concept="1" />
+      <node id="7225199418846864206" at="223,176,224,22" concept="6" />
+      <node id="7225199418846864206" at="218,0,226,0" concept="8" trace="createDescriptorForLength#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846864206" at="93,40,94,31" />
+      <scope id="7225199418846864206" at="218,64,224,22">
+        <var name="b" id="7225199418846864206" />
+      </scope>
+      <scope id="7225199418846864206" at="218,0,226,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846865640">
+    <file name="EnumerationDescriptor_LengthEnum.java">
+      <node id="7225199418846865640" at="14,45,15,178" concept="9" />
+      <node id="7225199418846865641" at="18,0,19,0" concept="2" trace="myMember_medium_0" />
+      <node id="7225199418846865955" at="19,0,20,0" concept="2" trace="myMember_short_0" />
+      <node id="7225199418846866062" at="20,0,21,0" concept="2" trace="myMember_long_0" />
+      <node id="7225199418846865640" at="22,0,23,0" concept="2" trace="myIndex" />
+      <node id="7225199418846865640" at="23,0,24,0" concept="2" trace="myMembers" />
+      <node id="7225199418846865640" at="27,62,28,16" concept="6" />
+      <node id="7225199418846865640" at="33,68,34,21" concept="6" />
+      <node id="7225199418846865640" at="40,29,41,18" concept="6" />
+      <node id="7225199418846865641" at="44,20,45,33" concept="6" />
+      <node id="7225199418846865955" at="46,19,47,32" concept="6" />
+      <node id="7225199418846866062" at="48,18,49,31" concept="6" />
+      <node id="7225199418846865640" at="50,5,51,16" concept="6" />
+      <node id="7225199418846865640" at="56,73,57,39" concept="5" />
+      <node id="7225199418846865640" at="58,22,59,18" concept="6" />
+      <node id="7225199418846865640" at="60,5,61,32" concept="6" />
+      <node id="7225199418846865640" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_LengthEnum#()V" />
+      <node id="7225199418846865640" at="39,88,42,5" concept="3" />
+      <node id="7225199418846865640" at="57,39,60,5" concept="3" />
+      <node id="7225199418846865640" at="25,0,30,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846865640" at="31,0,36,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418846865640" at="42,5,50,5" concept="10" />
+      <node id="7225199418846865640" at="54,0,63,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846865640" at="37,0,53,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418846865640" at="14,45,15,178" />
+      <scope id="7225199418846865640" at="27,62,28,16" />
+      <scope id="7225199418846865640" at="33,68,34,21" />
+      <scope id="7225199418846865640" at="40,29,41,18" />
+      <scope id="7225199418846865641" at="44,20,45,33" />
+      <scope id="7225199418846865955" at="46,19,47,32" />
+      <scope id="7225199418846866062" at="48,18,49,31" />
+      <scope id="7225199418846865640" at="58,22,59,18" />
+      <scope id="7225199418846865640" at="14,0,17,0" />
+      <scope id="7225199418846865640" at="25,0,30,0" />
+      <scope id="7225199418846865640" at="31,0,36,0" />
+      <scope id="7225199418846865640" at="56,73,61,32">
+        <var name="index" id="7225199418846865640" />
+      </scope>
+      <scope id="7225199418846865640" at="54,0,63,0">
+        <var name="idValue" id="7225199418846865640" />
+      </scope>
+      <scope id="7225199418846865640" at="39,88,51,16" />
+      <scope id="7225199418846865640" at="37,0,53,0">
+        <var name="memberName" id="7225199418846865640" />
+      </scope>
+      <unit id="7225199418846865640" at="12,0,64,0" name="SkateboardLanguage.structure.EnumerationDescriptor_LengthEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846865640" at="48,0,49,0" concept="2" trace="myEnumerationLengthEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846891235">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846891235" at="35,0,36,0" concept="2" trace="props_Width" />
+      <node id="7225199418846891235" at="204,34,205,76" concept="5" />
+      <node id="7225199418846891235" at="205,76,206,39" concept="1" />
+      <node id="7225199418846891235" at="206,39,207,37" concept="1" />
+      <node id="7225199418846891235" at="208,9,209,27" concept="6" />
+      <node id="7225199418846891235" at="203,39,208,9" concept="3" />
+      <scope id="7225199418846891235" at="204,34,207,37">
+        <var name="cpb" id="7225199418846891235" />
+      </scope>
+      <scope id="7225199418846891235" at="203,39,209,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846891235" at="35,0,36,0" concept="7" trace="Width" />
+      <node id="7225199418846891235" at="61,48,62,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846891235" at="42,0,43,0" concept="2" trace="myConceptWidth" />
+      <node id="7225199418846891235" at="119,39,120,30" concept="6" />
+      <node id="7225199418846891235" at="339,63,340,157" concept="5" />
+      <node id="7225199418846891235" at="340,157,341,34" concept="1" />
+      <node id="7225199418846891235" at="341,34,342,105" concept="1" />
+      <node id="7225199418846891235" at="342,105,343,17" concept="1" />
+      <node id="7225199418846891548" at="343,17,344,175" concept="1" />
+      <node id="7225199418846891235" at="344,175,345,22" concept="6" />
+      <node id="7225199418846891235" at="339,0,347,0" concept="8" trace="createDescriptorForWidth#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846891235" at="119,39,120,30" />
+      <scope id="7225199418846891235" at="339,63,345,22">
+        <var name="b" id="7225199418846891235" />
+      </scope>
+      <scope id="7225199418846891235" at="339,0,347,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846891810">
+    <file name="EnumerationDescriptor_WidthEnum.java">
+      <node id="7225199418846891810" at="14,44,15,177" concept="9" />
+      <node id="7225199418846891811" at="18,0,19,0" concept="2" trace="myMember_medium_0" />
+      <node id="7225199418846892125" at="19,0,20,0" concept="2" trace="myMember_small_0" />
+      <node id="7225199418846892180" at="20,0,21,0" concept="2" trace="myMember_large_0" />
+      <node id="7225199418846891810" at="22,0,23,0" concept="2" trace="myIndex" />
+      <node id="7225199418846891810" at="23,0,24,0" concept="2" trace="myMembers" />
+      <node id="7225199418846891810" at="27,62,28,16" concept="6" />
+      <node id="7225199418846891810" at="33,68,34,21" concept="6" />
+      <node id="7225199418846891810" at="40,29,41,18" concept="6" />
+      <node id="7225199418846891811" at="44,20,45,33" concept="6" />
+      <node id="7225199418846892125" at="46,19,47,32" concept="6" />
+      <node id="7225199418846892180" at="48,19,49,32" concept="6" />
+      <node id="7225199418846891810" at="50,5,51,16" concept="6" />
+      <node id="7225199418846891810" at="56,73,57,39" concept="5" />
+      <node id="7225199418846891810" at="58,22,59,18" concept="6" />
+      <node id="7225199418846891810" at="60,5,61,32" concept="6" />
+      <node id="7225199418846891810" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_WidthEnum#()V" />
+      <node id="7225199418846891810" at="39,88,42,5" concept="3" />
+      <node id="7225199418846891810" at="57,39,60,5" concept="3" />
+      <node id="7225199418846891810" at="25,0,30,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846891810" at="31,0,36,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418846891810" at="42,5,50,5" concept="10" />
+      <node id="7225199418846891810" at="54,0,63,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846891810" at="37,0,53,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418846891810" at="14,44,15,177" />
+      <scope id="7225199418846891810" at="27,62,28,16" />
+      <scope id="7225199418846891810" at="33,68,34,21" />
+      <scope id="7225199418846891810" at="40,29,41,18" />
+      <scope id="7225199418846891811" at="44,20,45,33" />
+      <scope id="7225199418846892125" at="46,19,47,32" />
+      <scope id="7225199418846892180" at="48,19,49,32" />
+      <scope id="7225199418846891810" at="58,22,59,18" />
+      <scope id="7225199418846891810" at="14,0,17,0" />
+      <scope id="7225199418846891810" at="25,0,30,0" />
+      <scope id="7225199418846891810" at="31,0,36,0" />
+      <scope id="7225199418846891810" at="56,73,61,32">
+        <var name="index" id="7225199418846891810" />
+      </scope>
+      <scope id="7225199418846891810" at="54,0,63,0">
+        <var name="idValue" id="7225199418846891810" />
+      </scope>
+      <scope id="7225199418846891810" at="39,88,51,16" />
+      <scope id="7225199418846891810" at="37,0,53,0">
+        <var name="memberName" id="7225199418846891810" />
+      </scope>
+      <unit id="7225199418846891810" at="12,0,64,0" name="SkateboardLanguage.structure.EnumerationDescriptor_WidthEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846891810" at="51,0,52,0" concept="2" trace="myEnumerationWidthEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846909580">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846909580" at="14,0,15,0" concept="2" trace="props_Color" />
+      <node id="7225199418846909580" at="57,34,58,76" concept="5" />
+      <node id="7225199418846909580" at="58,76,59,39" concept="1" />
+      <node id="7225199418846909580" at="59,39,60,37" concept="1" />
+      <node id="7225199418846909580" at="61,9,62,27" concept="6" />
+      <node id="7225199418846909580" at="56,39,61,9" concept="3" />
+      <scope id="7225199418846909580" at="57,34,60,37">
+        <var name="cpb" id="7225199418846909580" />
+      </scope>
+      <scope id="7225199418846909580" at="56,39,62,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846909580" at="14,0,15,0" concept="7" trace="Color" />
+      <node id="7225199418846909580" at="40,49,41,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846909580" at="21,0,22,0" concept="2" trace="myConceptColor" />
+      <node id="7225199418846909580" at="77,39,78,30" concept="6" />
+      <node id="7225199418846909580" at="151,63,152,157" concept="5" />
+      <node id="7225199418846909580" at="152,157,153,34" concept="1" />
+      <node id="7225199418846909580" at="153,34,154,105" concept="1" />
+      <node id="7225199418846909580" at="154,105,155,17" concept="1" />
+      <node id="7225199418846909867" at="155,17,156,175" concept="1" />
+      <node id="7225199418846909580" at="156,175,157,22" concept="6" />
+      <node id="7225199418846909580" at="151,0,159,0" concept="8" trace="createDescriptorForColor#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846909580" at="77,39,78,30" />
+      <scope id="7225199418846909580" at="151,63,157,22">
+        <var name="b" id="7225199418846909580" />
+      </scope>
+      <scope id="7225199418846909580" at="151,0,159,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846910103">
+    <file name="EnumerationDescriptor_ColorEnum.java">
+      <node id="7225199418846910103" at="14,44,15,177" concept="9" />
+      <node id="7225199418846910104" at="18,0,19,0" concept="2" trace="myMember_red_0" />
+      <node id="7225199418846910287" at="19,0,20,0" concept="2" trace="myMember_orange_0" />
+      <node id="7225199418846910342" at="20,0,21,0" concept="2" trace="myMember_yellow_0" />
+      <node id="7225199418846910424" at="21,0,22,0" concept="2" trace="myMember_green_0" />
+      <node id="7225199418846910455" at="22,0,23,0" concept="2" trace="myMember_blue_0" />
+      <node id="7225199418846910513" at="23,0,24,0" concept="2" trace="myMember_purple_0" />
+      <node id="7225199418846910572" at="24,0,25,0" concept="2" trace="myMember_pink_0" />
+      <node id="7225199418846910632" at="25,0,26,0" concept="2" trace="myMember_black_0" />
+      <node id="7225199418846910693" at="26,0,27,0" concept="2" trace="myMember_silver_0" />
+      <node id="7225199418846910755" at="27,0,28,0" concept="2" trace="myMember_white_0" />
+      <node id="7225199418846910103" at="29,0,30,0" concept="2" trace="myIndex" />
+      <node id="7225199418846910103" at="30,0,31,0" concept="2" trace="myMembers" />
+      <node id="7225199418846910103" at="34,62,35,16" concept="6" />
+      <node id="7225199418846910103" at="40,68,41,21" concept="6" />
+      <node id="7225199418846910103" at="47,29,48,18" concept="6" />
+      <node id="7225199418846910104" at="51,17,52,30" concept="6" />
+      <node id="7225199418846910287" at="53,20,54,33" concept="6" />
+      <node id="7225199418846910342" at="55,20,56,33" concept="6" />
+      <node id="7225199418846910424" at="57,19,58,32" concept="6" />
+      <node id="7225199418846910455" at="59,18,60,31" concept="6" />
+      <node id="7225199418846910513" at="61,20,62,33" concept="6" />
+      <node id="7225199418846910572" at="63,18,64,31" concept="6" />
+      <node id="7225199418846910632" at="65,19,66,32" concept="6" />
+      <node id="7225199418846910693" at="67,20,68,33" concept="6" />
+      <node id="7225199418846910755" at="69,19,70,32" concept="6" />
+      <node id="7225199418846910103" at="71,5,72,16" concept="6" />
+      <node id="7225199418846910103" at="77,73,78,39" concept="5" />
+      <node id="7225199418846910103" at="79,22,80,18" concept="6" />
+      <node id="7225199418846910103" at="81,5,82,32" concept="6" />
+      <node id="7225199418846910103" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_ColorEnum#()V" />
+      <node id="7225199418846910103" at="46,88,49,5" concept="3" />
+      <node id="7225199418846910103" at="78,39,81,5" concept="3" />
+      <node id="7225199418846910103" at="32,0,37,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846910103" at="38,0,43,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418846910103" at="75,0,84,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846910103" at="49,5,71,5" concept="10" />
+      <node id="7225199418846910103" at="44,0,74,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418846910103" at="14,44,15,177" />
+      <scope id="7225199418846910103" at="34,62,35,16" />
+      <scope id="7225199418846910103" at="40,68,41,21" />
+      <scope id="7225199418846910103" at="47,29,48,18" />
+      <scope id="7225199418846910104" at="51,17,52,30" />
+      <scope id="7225199418846910287" at="53,20,54,33" />
+      <scope id="7225199418846910342" at="55,20,56,33" />
+      <scope id="7225199418846910424" at="57,19,58,32" />
+      <scope id="7225199418846910455" at="59,18,60,31" />
+      <scope id="7225199418846910513" at="61,20,62,33" />
+      <scope id="7225199418846910572" at="63,18,64,31" />
+      <scope id="7225199418846910632" at="65,19,66,32" />
+      <scope id="7225199418846910693" at="67,20,68,33" />
+      <scope id="7225199418846910755" at="69,19,70,32" />
+      <scope id="7225199418846910103" at="79,22,80,18" />
+      <scope id="7225199418846910103" at="14,0,17,0" />
+      <scope id="7225199418846910103" at="32,0,37,0" />
+      <scope id="7225199418846910103" at="38,0,43,0" />
+      <scope id="7225199418846910103" at="77,73,82,32">
+        <var name="index" id="7225199418846910103" />
+      </scope>
+      <scope id="7225199418846910103" at="75,0,84,0">
+        <var name="idValue" id="7225199418846910103" />
+      </scope>
+      <scope id="7225199418846910103" at="46,88,72,16" />
+      <scope id="7225199418846910103" at="44,0,74,0">
+        <var name="memberName" id="7225199418846910103" />
+      </scope>
+      <unit id="7225199418846910103" at="12,0,85,0" name="SkateboardLanguage.structure.EnumerationDescriptor_ColorEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846910103" at="44,0,45,0" concept="2" trace="myEnumerationColorEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846916056">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846916056" at="18,0,19,0" concept="2" trace="props_Foldable" />
+      <node id="7225199418846916056" at="85,37,86,76" concept="5" />
+      <node id="7225199418846916056" at="86,76,87,42" concept="1" />
+      <node id="7225199418846916056" at="87,42,88,40" concept="1" />
+      <node id="7225199418846916056" at="89,9,90,30" concept="6" />
+      <node id="7225199418846916056" at="84,42,89,9" concept="3" />
+      <scope id="7225199418846916056" at="85,37,88,40">
+        <var name="cpb" id="7225199418846916056" />
+      </scope>
+      <scope id="7225199418846916056" at="84,42,90,30" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846916056" at="18,0,19,0" concept="7" trace="Foldable" />
+      <node id="7225199418846916056" at="44,53,45,47" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846916056" at="25,0,26,0" concept="2" trace="myConceptFoldable" />
+      <node id="7225199418846916056" at="85,42,86,33" concept="6" />
+      <node id="7225199418846916056" at="185,66,186,160" concept="5" />
+      <node id="7225199418846916056" at="186,160,187,34" concept="1" />
+      <node id="7225199418846916056" at="187,34,188,105" concept="1" />
+      <node id="7225199418846916056" at="188,105,189,17" concept="1" />
+      <node id="7225199418846916447" at="189,17,190,115" concept="1" />
+      <node id="7225199418846916056" at="190,115,191,22" concept="6" />
+      <node id="7225199418846916056" at="185,0,193,0" concept="8" trace="createDescriptorForFoldable#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846916056" at="85,42,86,33" />
+      <scope id="7225199418846916056" at="185,66,191,22">
+        <var name="b" id="7225199418846916056" />
+      </scope>
+      <scope id="7225199418846916056" at="185,0,193,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846920984">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846920984" at="31,0,32,0" concept="2" trace="props_Wheel" />
+      <node id="7225199418846920984" at="176,34,177,76" concept="5" />
+      <node id="7225199418846920984" at="177,76,178,39" concept="1" />
+      <node id="7225199418846920984" at="178,39,179,37" concept="1" />
+      <node id="7225199418846920984" at="180,9,181,27" concept="6" />
+      <node id="7225199418846920984" at="175,39,180,9" concept="3" />
+      <scope id="7225199418846920984" at="176,34,179,37">
+        <var name="cpb" id="7225199418846920984" />
+      </scope>
+      <scope id="7225199418846920984" at="175,39,181,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846920984" at="31,0,32,0" concept="7" trace="Wheel" />
+      <node id="7225199418846920984" at="57,49,58,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846920984" at="38,0,39,0" concept="2" trace="myConceptWheel" />
+      <node id="7225199418846920984" at="111,39,112,30" concept="6" />
+      <node id="7225199418846920984" at="304,63,305,157" concept="5" />
+      <node id="7225199418846920984" at="305,157,306,34" concept="1" />
+      <node id="7225199418846920984" at="306,34,307,105" concept="1" />
+      <node id="7225199418846920984" at="307,105,308,17" concept="1" />
+      <node id="7225199418846921558" at="308,17,309,196" concept="1" />
+      <node id="7225199418846962815" at="309,196,310,198" concept="1" />
+      <node id="7225199418846965009" at="310,198,311,197" concept="1" />
+      <node id="7225199418846971129" at="311,197,312,202" concept="1" />
+      <node id="7225199418846920984" at="312,202,313,22" concept="6" />
+      <node id="7225199418846920984" at="304,0,315,0" concept="8" trace="createDescriptorForWheel#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846920984" at="111,39,112,30" />
+      <scope id="7225199418846920984" at="304,63,313,22">
+        <var name="b" id="7225199418846920984" />
+      </scope>
+      <scope id="7225199418846920984" at="304,0,315,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846923330">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846923330" at="34,0,35,0" concept="2" trace="props_WheelSize" />
+      <node id="7225199418846923330" at="197,38,198,76" concept="5" />
+      <node id="7225199418846923330" at="198,76,199,43" concept="1" />
+      <node id="7225199418846923330" at="199,43,200,41" concept="1" />
+      <node id="7225199418846923330" at="201,9,202,31" concept="6" />
+      <node id="7225199418846923330" at="196,43,201,9" concept="3" />
+      <scope id="7225199418846923330" at="197,38,200,41">
+        <var name="cpb" id="7225199418846923330" />
+      </scope>
+      <scope id="7225199418846923330" at="196,43,202,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846923330" at="34,0,35,0" concept="7" trace="WheelSize" />
+      <node id="7225199418846923330" at="60,49,61,48" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846923330" at="41,0,42,0" concept="2" trace="myConceptWheelSize" />
+      <node id="7225199418846923330" at="117,43,118,34" concept="6" />
+      <node id="7225199418846923330" at="331,67,332,161" concept="5" />
+      <node id="7225199418846923330" at="332,161,333,34" concept="1" />
+      <node id="7225199418846923330" at="333,34,334,105" concept="1" />
+      <node id="7225199418846923330" at="334,105,335,17" concept="1" />
+      <node id="7225199418846924761" at="335,17,336,174" concept="1" />
+      <node id="7225199418846923330" at="336,174,337,22" concept="6" />
+      <node id="7225199418846923330" at="331,0,339,0" concept="8" trace="createDescriptorForWheelSize#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846923330" at="117,43,118,34" />
+      <scope id="7225199418846923330" at="331,67,337,22">
+        <var name="b" id="7225199418846923330" />
+      </scope>
+      <scope id="7225199418846923330" at="331,0,339,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846958142">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846958142" at="33,0,34,0" concept="2" trace="props_WheelShape" />
+      <node id="7225199418846958142" at="190,39,191,76" concept="5" />
+      <node id="7225199418846958142" at="191,76,192,44" concept="1" />
+      <node id="7225199418846958142" at="192,44,193,42" concept="1" />
+      <node id="7225199418846958142" at="194,9,195,32" concept="6" />
+      <node id="7225199418846958142" at="189,44,194,9" concept="3" />
+      <scope id="7225199418846958142" at="190,39,193,42">
+        <var name="cpb" id="7225199418846958142" />
+      </scope>
+      <scope id="7225199418846958142" at="189,44,195,32" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846958142" at="33,0,34,0" concept="7" trace="WheelShape" />
+      <node id="7225199418846958142" at="59,54,60,49" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846958142" at="40,0,41,0" concept="2" trace="myConceptWheelShape" />
+      <node id="7225199418846958142" at="115,44,116,35" concept="6" />
+      <node id="7225199418846958142" at="323,68,324,162" concept="5" />
+      <node id="7225199418846958142" at="324,162,325,34" concept="1" />
+      <node id="7225199418846958142" at="325,34,326,105" concept="1" />
+      <node id="7225199418846958142" at="326,105,327,17" concept="1" />
+      <node id="7225199418846958533" at="327,17,328,175" concept="1" />
+      <node id="7225199418846958142" at="328,175,329,22" concept="6" />
+      <node id="7225199418846958142" at="323,0,331,0" concept="8" trace="createDescriptorForWheelShape#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846958142" at="115,44,116,35" />
+      <scope id="7225199418846958142" at="323,68,329,22">
+        <var name="b" id="7225199418846958142" />
+      </scope>
+      <scope id="7225199418846958142" at="323,0,331,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846960200">
+    <file name="EnumerationDescriptor_WheelShapeEnum.java">
+      <node id="7225199418846960200" at="14,49,15,182" concept="9" />
+      <node id="7225199418846960201" at="18,0,19,0" concept="2" trace="myMember_cylindrical_0" />
+      <node id="7225199418846960514" at="19,0,20,0" concept="2" trace="myMember_spherical_0" />
+      <node id="7225199418846960200" at="21,0,22,0" concept="2" trace="myIndex" />
+      <node id="7225199418846960200" at="22,0,23,0" concept="2" trace="myMembers" />
+      <node id="7225199418846960200" at="26,62,27,16" concept="6" />
+      <node id="7225199418846960200" at="32,68,33,21" concept="6" />
+      <node id="7225199418846960200" at="39,29,40,18" concept="6" />
+      <node id="7225199418846960201" at="43,25,44,38" concept="6" />
+      <node id="7225199418846960514" at="45,23,46,36" concept="6" />
+      <node id="7225199418846960200" at="47,5,48,16" concept="6" />
+      <node id="7225199418846960200" at="53,73,54,39" concept="5" />
+      <node id="7225199418846960200" at="55,22,56,18" concept="6" />
+      <node id="7225199418846960200" at="57,5,58,32" concept="6" />
+      <node id="7225199418846960200" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_WheelShapeEnum#()V" />
+      <node id="7225199418846960200" at="38,88,41,5" concept="3" />
+      <node id="7225199418846960200" at="54,39,57,5" concept="3" />
+      <node id="7225199418846960200" at="24,0,29,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846960200" at="30,0,35,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418846960200" at="41,5,47,5" concept="10" />
+      <node id="7225199418846960200" at="51,0,60,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846960200" at="36,0,50,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418846960200" at="14,49,15,182" />
+      <scope id="7225199418846960200" at="26,62,27,16" />
+      <scope id="7225199418846960200" at="32,68,33,21" />
+      <scope id="7225199418846960200" at="39,29,40,18" />
+      <scope id="7225199418846960201" at="43,25,44,38" />
+      <scope id="7225199418846960514" at="45,23,46,36" />
+      <scope id="7225199418846960200" at="55,22,56,18" />
+      <scope id="7225199418846960200" at="14,0,17,0" />
+      <scope id="7225199418846960200" at="24,0,29,0" />
+      <scope id="7225199418846960200" at="30,0,35,0" />
+      <scope id="7225199418846960200" at="53,73,58,32">
+        <var name="index" id="7225199418846960200" />
+      </scope>
+      <scope id="7225199418846960200" at="51,0,60,0">
+        <var name="idValue" id="7225199418846960200" />
+      </scope>
+      <scope id="7225199418846960200" at="38,88,48,16" />
+      <scope id="7225199418846960200" at="36,0,50,0">
+        <var name="memberName" id="7225199418846960200" />
+      </scope>
+      <unit id="7225199418846960200" at="12,0,61,0" name="SkateboardLanguage.structure.EnumerationDescriptor_WheelShapeEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846960200" at="50,0,51,0" concept="2" trace="myEnumerationWheelShapeEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846968381">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846968381" at="32,0,33,0" concept="2" trace="props_WheelDecoration" />
+      <node id="7225199418846968381" at="183,44,184,76" concept="5" />
+      <node id="7225199418846968381" at="184,76,185,49" concept="1" />
+      <node id="7225199418846968381" at="185,49,186,47" concept="1" />
+      <node id="7225199418846968381" at="187,9,188,37" concept="6" />
+      <node id="7225199418846968381" at="182,49,187,9" concept="3" />
+      <scope id="7225199418846968381" at="183,44,186,47">
+        <var name="cpb" id="7225199418846968381" />
+      </scope>
+      <scope id="7225199418846968381" at="182,49,188,37" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846968381" at="32,0,33,0" concept="7" trace="WheelDecoration" />
+      <node id="7225199418846968381" at="58,44,59,54" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846968381" at="39,0,40,0" concept="2" trace="myConceptWheelDecoration" />
+      <node id="7225199418846968381" at="113,49,114,40" concept="6" />
+      <node id="7225199418846968381" at="315,73,316,167" concept="5" />
+      <node id="7225199418846968381" at="316,167,317,34" concept="1" />
+      <node id="7225199418846968381" at="317,34,318,105" concept="1" />
+      <node id="7225199418846968381" at="318,105,319,17" concept="1" />
+      <node id="7225199418846968876" at="319,17,320,117" concept="1" />
+      <node id="7225199418846968381" at="320,117,321,22" concept="6" />
+      <node id="7225199418846968381" at="315,0,323,0" concept="8" trace="createDescriptorForWheelDecoration#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846968381" at="113,49,114,40" />
+      <scope id="7225199418846968381" at="315,73,321,22">
+        <var name="b" id="7225199418846968381" />
+      </scope>
+      <scope id="7225199418846968381" at="315,0,323,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846973995">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846973995" at="29,0,30,0" concept="2" trace="props_Truck" />
+      <node id="7225199418846973995" at="162,34,163,76" concept="5" />
+      <node id="7225199418846973995" at="163,76,164,39" concept="1" />
+      <node id="7225199418846973995" at="164,39,165,37" concept="1" />
+      <node id="7225199418846973995" at="166,9,167,27" concept="6" />
+      <node id="7225199418846973995" at="161,39,166,9" concept="3" />
+      <scope id="7225199418846973995" at="162,34,165,37">
+        <var name="cpb" id="7225199418846973995" />
+      </scope>
+      <scope id="7225199418846973995" at="161,39,167,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846973995" at="29,0,30,0" concept="7" trace="Truck" />
+      <node id="7225199418846973995" at="55,49,56,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846973995" at="36,0,37,0" concept="2" trace="myConceptTruck" />
+      <node id="7225199418846973995" at="107,39,108,30" concept="6" />
+      <node id="7225199418846973995" at="287,63,288,157" concept="5" />
+      <node id="7225199418846973995" at="288,157,289,34" concept="1" />
+      <node id="7225199418846973995" at="289,34,290,105" concept="1" />
+      <node id="7225199418846973995" at="290,105,291,17" concept="1" />
+      <node id="7225199418846987888" at="291,17,292,198" concept="1" />
+      <node id="7225199418846994167" at="292,198,293,202" concept="1" />
+      <node id="7225199418846973995" at="293,202,294,22" concept="6" />
+      <node id="7225199418846973995" at="287,0,296,0" concept="8" trace="createDescriptorForTruck#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846973995" at="107,39,108,30" />
+      <scope id="7225199418846973995" at="287,63,294,22">
+        <var name="b" id="7225199418846973995" />
+      </scope>
+      <scope id="7225199418846973995" at="287,0,296,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846981276">
+    <file name="EnumerationDescriptor_ColorReducedEnum.java">
+      <node id="7225199418846981276" at="14,51,15,184" concept="9" />
+      <node id="7225199418846981277" at="18,0,19,0" concept="2" trace="myMember_black_0" />
+      <node id="7225199418846981642" at="19,0,20,0" concept="2" trace="myMember_white_0" />
+      <node id="7225199418846981697" at="20,0,21,0" concept="2" trace="myMember_silver_0" />
+      <node id="7225199418846981276" at="22,0,23,0" concept="2" trace="myIndex" />
+      <node id="7225199418846981276" at="23,0,24,0" concept="2" trace="myMembers" />
+      <node id="7225199418846981276" at="27,62,28,16" concept="6" />
+      <node id="7225199418846981276" at="33,68,34,21" concept="6" />
+      <node id="7225199418846981276" at="40,29,41,18" concept="6" />
+      <node id="7225199418846981277" at="44,19,45,32" concept="6" />
+      <node id="7225199418846981642" at="46,19,47,32" concept="6" />
+      <node id="7225199418846981697" at="48,20,49,33" concept="6" />
+      <node id="7225199418846981276" at="50,5,51,16" concept="6" />
+      <node id="7225199418846981276" at="56,73,57,39" concept="5" />
+      <node id="7225199418846981276" at="58,22,59,18" concept="6" />
+      <node id="7225199418846981276" at="60,5,61,32" concept="6" />
+      <node id="7225199418846981276" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_ColorReducedEnum#()V" />
+      <node id="7225199418846981276" at="39,88,42,5" concept="3" />
+      <node id="7225199418846981276" at="57,39,60,5" concept="3" />
+      <node id="7225199418846981276" at="25,0,30,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846981276" at="31,0,36,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418846981276" at="42,5,50,5" concept="10" />
+      <node id="7225199418846981276" at="54,0,63,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418846981276" at="37,0,53,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418846981276" at="14,51,15,184" />
+      <scope id="7225199418846981276" at="27,62,28,16" />
+      <scope id="7225199418846981276" at="33,68,34,21" />
+      <scope id="7225199418846981276" at="40,29,41,18" />
+      <scope id="7225199418846981277" at="44,19,45,32" />
+      <scope id="7225199418846981642" at="46,19,47,32" />
+      <scope id="7225199418846981697" at="48,20,49,33" />
+      <scope id="7225199418846981276" at="58,22,59,18" />
+      <scope id="7225199418846981276" at="14,0,17,0" />
+      <scope id="7225199418846981276" at="25,0,30,0" />
+      <scope id="7225199418846981276" at="31,0,36,0" />
+      <scope id="7225199418846981276" at="56,73,61,32">
+        <var name="index" id="7225199418846981276" />
+      </scope>
+      <scope id="7225199418846981276" at="54,0,63,0">
+        <var name="idValue" id="7225199418846981276" />
+      </scope>
+      <scope id="7225199418846981276" at="39,88,51,16" />
+      <scope id="7225199418846981276" at="37,0,53,0">
+        <var name="memberName" id="7225199418846981276" />
+      </scope>
+      <unit id="7225199418846981276" at="12,0,64,0" name="SkateboardLanguage.structure.EnumerationDescriptor_ColorReducedEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846981276" at="45,0,46,0" concept="2" trace="myEnumerationColorReducedEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846982014">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846982014" at="30,0,31,0" concept="2" trace="props_TruckColor" />
+      <node id="7225199418846982014" at="169,39,170,76" concept="5" />
+      <node id="7225199418846982014" at="170,76,171,44" concept="1" />
+      <node id="7225199418846982014" at="171,44,172,42" concept="1" />
+      <node id="7225199418846982014" at="173,9,174,32" concept="6" />
+      <node id="7225199418846982014" at="168,44,173,9" concept="3" />
+      <scope id="7225199418846982014" at="169,39,172,42">
+        <var name="cpb" id="7225199418846982014" />
+      </scope>
+      <scope id="7225199418846982014" at="168,44,174,32" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846982014" at="30,0,31,0" concept="7" trace="TruckColor" />
+      <node id="7225199418846982014" at="56,44,57,49" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846982014" at="37,0,38,0" concept="2" trace="myConceptTruckColor" />
+      <node id="7225199418846982014" at="109,44,110,35" concept="6" />
+      <node id="7225199418846982014" at="296,68,297,162" concept="5" />
+      <node id="7225199418846982014" at="297,162,298,34" concept="1" />
+      <node id="7225199418846982014" at="298,34,299,105" concept="1" />
+      <node id="7225199418846982014" at="299,105,300,17" concept="1" />
+      <node id="7225199418846982562" at="300,17,301,175" concept="1" />
+      <node id="7225199418846982014" at="301,175,302,22" concept="6" />
+      <node id="7225199418846982014" at="296,0,304,0" concept="8" trace="createDescriptorForTruckColor#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846982014" at="109,44,110,35" />
+      <scope id="7225199418846982014" at="296,68,302,22">
+        <var name="b" id="7225199418846982014" />
+      </scope>
+      <scope id="7225199418846982014" at="296,0,304,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418846989769">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418846989769" at="13,0,14,0" concept="2" trace="props_BoltsColor" />
+      <node id="7225199418846989769" at="50,39,51,76" concept="5" />
+      <node id="7225199418846989769" at="51,76,52,44" concept="1" />
+      <node id="7225199418846989769" at="52,44,53,42" concept="1" />
+      <node id="7225199418846989769" at="54,9,55,32" concept="6" />
+      <node id="7225199418846989769" at="49,44,54,9" concept="3" />
+      <scope id="7225199418846989769" at="50,39,53,42">
+        <var name="cpb" id="7225199418846989769" />
+      </scope>
+      <scope id="7225199418846989769" at="49,44,55,32" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418846989769" at="13,0,14,0" concept="7" trace="BoltsColor" />
+      <node id="7225199418846989769" at="39,43,40,49" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418846989769" at="20,0,21,0" concept="2" trace="myConceptBoltsColor" />
+      <node id="7225199418846989769" at="75,44,76,35" concept="6" />
+      <node id="7225199418846989769" at="143,68,144,162" concept="5" />
+      <node id="7225199418846989769" at="144,162,145,34" concept="1" />
+      <node id="7225199418846989769" at="145,34,146,105" concept="1" />
+      <node id="7225199418846989769" at="146,105,147,17" concept="1" />
+      <node id="7225199418846990160" at="147,17,148,175" concept="1" />
+      <node id="7225199418846989769" at="148,175,149,22" concept="6" />
+      <node id="7225199418846989769" at="143,0,151,0" concept="8" trace="createDescriptorForBoltsColor#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418846989769" at="75,44,76,35" />
+      <scope id="7225199418846989769" at="143,68,149,22">
+        <var name="b" id="7225199418846989769" />
+      </scope>
+      <scope id="7225199418846989769" at="143,0,151,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847000357">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847000357" at="15,0,16,0" concept="2" trace="props_Decoration" />
+      <node id="7225199418847000357" at="64,39,65,76" concept="5" />
+      <node id="7225199418847000357" at="65,76,66,44" concept="1" />
+      <node id="7225199418847000357" at="66,44,67,42" concept="1" />
+      <node id="7225199418847000357" at="68,9,69,32" concept="6" />
+      <node id="7225199418847000357" at="63,44,68,9" concept="3" />
+      <scope id="7225199418847000357" at="64,39,67,42">
+        <var name="cpb" id="7225199418847000357" />
+      </scope>
+      <scope id="7225199418847000357" at="63,44,69,32" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847000357" at="15,0,16,0" concept="7" trace="Decoration" />
+      <node id="7225199418847000357" at="41,44,42,49" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847000357" at="22,0,23,0" concept="2" trace="myConceptDecoration" />
+      <node id="7225199418847000357" at="79,44,80,35" concept="6" />
+      <node id="7225199418847000357" at="159,68,160,162" concept="5" />
+      <node id="7225199418847000357" at="160,162,161,34" concept="1" />
+      <node id="7225199418847000357" at="161,34,162,105" concept="1" />
+      <node id="7225199418847000357" at="162,105,163,17" concept="1" />
+      <node id="7225199418847007445" at="163,17,164,198" concept="1" />
+      <node id="7225199418847047073" at="164,198,165,197" concept="1" />
+      <node id="7225199418847053090" at="165,197,166,196" concept="1" />
+      <node id="7225199418847000357" at="166,196,167,22" concept="6" />
+      <node id="7225199418847000357" at="159,0,169,0" concept="8" trace="createDescriptorForDecoration#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847000357" at="79,44,80,35" />
+      <scope id="7225199418847000357" at="159,68,167,22">
+        <var name="b" id="7225199418847000357" />
+      </scope>
+      <scope id="7225199418847000357" at="159,0,169,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847002823">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847002823" at="16,0,17,0" concept="2" trace="props_DecorationShape" />
+      <node id="7225199418847002823" at="71,44,72,76" concept="5" />
+      <node id="7225199418847002823" at="72,76,73,49" concept="1" />
+      <node id="7225199418847002823" at="73,49,74,47" concept="1" />
+      <node id="7225199418847002823" at="75,9,76,37" concept="6" />
+      <node id="7225199418847002823" at="70,49,75,9" concept="3" />
+      <scope id="7225199418847002823" at="71,44,74,47">
+        <var name="cpb" id="7225199418847002823" />
+      </scope>
+      <scope id="7225199418847002823" at="70,49,76,37" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847002823" at="16,0,17,0" concept="7" trace="DecorationShape" />
+      <node id="7225199418847002823" at="42,49,43,54" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847002823" at="23,0,24,0" concept="2" trace="myConceptDecorationShape" />
+      <node id="7225199418847002823" at="81,49,82,40" concept="6" />
+      <node id="7225199418847002823" at="169,73,170,167" concept="5" />
+      <node id="7225199418847002823" at="170,167,171,34" concept="1" />
+      <node id="7225199418847002823" at="171,34,172,105" concept="1" />
+      <node id="7225199418847002823" at="172,105,173,17" concept="1" />
+      <node id="7225199418847003760" at="173,17,174,175" concept="1" />
+      <node id="7225199418847002823" at="174,175,175,22" concept="6" />
+      <node id="7225199418847002823" at="169,0,177,0" concept="8" trace="createDescriptorForDecorationShape#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847002823" at="81,49,82,40" />
+      <scope id="7225199418847002823" at="169,73,175,22">
+        <var name="b" id="7225199418847002823" />
+      </scope>
+      <scope id="7225199418847002823" at="169,0,177,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847004959">
+    <file name="EnumerationDescriptor_DecorationShapeEnum.java">
+      <node id="7225199418847004959" at="14,54,15,187" concept="9" />
+      <node id="7225199418847004960" at="18,0,19,0" concept="2" trace="myMember_circle_0" />
+      <node id="7225199418847005247" at="19,0,20,0" concept="2" trace="myMember_square_0" />
+      <node id="7225199418847005328" at="20,0,21,0" concept="2" trace="myMember_triangle_0" />
+      <node id="7225199418847004959" at="22,0,23,0" concept="2" trace="myIndex" />
+      <node id="7225199418847004959" at="23,0,24,0" concept="2" trace="myMembers" />
+      <node id="7225199418847004959" at="27,62,28,16" concept="6" />
+      <node id="7225199418847004959" at="33,68,34,21" concept="6" />
+      <node id="7225199418847004959" at="40,29,41,18" concept="6" />
+      <node id="7225199418847004960" at="44,20,45,33" concept="6" />
+      <node id="7225199418847005247" at="46,20,47,33" concept="6" />
+      <node id="7225199418847005328" at="48,22,49,35" concept="6" />
+      <node id="7225199418847004959" at="50,5,51,16" concept="6" />
+      <node id="7225199418847004959" at="56,73,57,39" concept="5" />
+      <node id="7225199418847004959" at="58,22,59,18" concept="6" />
+      <node id="7225199418847004959" at="60,5,61,32" concept="6" />
+      <node id="7225199418847004959" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_DecorationShapeEnum#()V" />
+      <node id="7225199418847004959" at="39,88,42,5" concept="3" />
+      <node id="7225199418847004959" at="57,39,60,5" concept="3" />
+      <node id="7225199418847004959" at="25,0,30,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418847004959" at="31,0,36,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418847004959" at="42,5,50,5" concept="10" />
+      <node id="7225199418847004959" at="54,0,63,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418847004959" at="37,0,53,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418847004959" at="14,54,15,187" />
+      <scope id="7225199418847004959" at="27,62,28,16" />
+      <scope id="7225199418847004959" at="33,68,34,21" />
+      <scope id="7225199418847004959" at="40,29,41,18" />
+      <scope id="7225199418847004960" at="44,20,45,33" />
+      <scope id="7225199418847005247" at="46,20,47,33" />
+      <scope id="7225199418847005328" at="48,22,49,35" />
+      <scope id="7225199418847004959" at="58,22,59,18" />
+      <scope id="7225199418847004959" at="14,0,17,0" />
+      <scope id="7225199418847004959" at="25,0,30,0" />
+      <scope id="7225199418847004959" at="31,0,36,0" />
+      <scope id="7225199418847004959" at="56,73,61,32">
+        <var name="index" id="7225199418847004959" />
+      </scope>
+      <scope id="7225199418847004959" at="54,0,63,0">
+        <var name="idValue" id="7225199418847004959" />
+      </scope>
+      <scope id="7225199418847004959" at="39,88,51,16" />
+      <scope id="7225199418847004959" at="37,0,53,0">
+        <var name="memberName" id="7225199418847004959" />
+      </scope>
+      <unit id="7225199418847004959" at="12,0,64,0" name="SkateboardLanguage.structure.EnumerationDescriptor_DecorationShapeEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847004959" at="46,0,47,0" concept="2" trace="myEnumerationDecorationShapeEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847051168">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847051168" at="17,0,18,0" concept="2" trace="props_DecorationSize" />
+      <node id="7225199418847051168" at="78,43,79,76" concept="5" />
+      <node id="7225199418847051168" at="79,76,80,48" concept="1" />
+      <node id="7225199418847051168" at="80,48,81,46" concept="1" />
+      <node id="7225199418847051168" at="82,9,83,36" concept="6" />
+      <node id="7225199418847051168" at="77,48,82,9" concept="3" />
+      <scope id="7225199418847051168" at="78,43,81,46">
+        <var name="cpb" id="7225199418847051168" />
+      </scope>
+      <scope id="7225199418847051168" at="77,48,83,36" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847051168" at="17,0,18,0" concept="7" trace="DecorationSize" />
+      <node id="7225199418847051168" at="43,54,44,53" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847051168" at="24,0,25,0" concept="2" trace="myConceptDecorationSize" />
+      <node id="7225199418847051168" at="83,48,84,39" concept="6" />
+      <node id="7225199418847051168" at="177,72,178,166" concept="5" />
+      <node id="7225199418847051168" at="178,166,179,34" concept="1" />
+      <node id="7225199418847051168" at="179,34,180,105" concept="1" />
+      <node id="7225199418847051168" at="180,105,181,17" concept="1" />
+      <node id="7225199418847051793" at="181,17,182,174" concept="1" />
+      <node id="7225199418847051168" at="182,174,183,22" concept="6" />
+      <node id="7225199418847051168" at="177,0,185,0" concept="8" trace="createDescriptorForDecorationSize#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847051168" at="83,48,84,39" />
+      <scope id="7225199418847051168" at="177,72,183,22">
+        <var name="b" id="7225199418847051168" />
+      </scope>
+      <scope id="7225199418847051168" at="177,0,185,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847056229">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847056229" at="19,0,20,0" concept="2" trace="props_Gridtape" />
+      <node id="7225199418847056229" at="92,37,93,76" concept="5" />
+      <node id="7225199418847056229" at="93,76,94,42" concept="1" />
+      <node id="7225199418847056229" at="94,42,95,40" concept="1" />
+      <node id="7225199418847056229" at="96,9,97,30" concept="6" />
+      <node id="7225199418847056229" at="91,42,96,9" concept="3" />
+      <scope id="7225199418847056229" at="92,37,95,40">
+        <var name="cpb" id="7225199418847056229" />
+      </scope>
+      <scope id="7225199418847056229" at="91,42,97,30" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847056229" at="19,0,20,0" concept="7" trace="Gridtape" />
+      <node id="7225199418847056229" at="45,47,46,47" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847056229" at="26,0,27,0" concept="2" trace="myConceptGridtape" />
+      <node id="7225199418847056229" at="87,42,88,33" concept="6" />
+      <node id="7225199418847056229" at="193,66,194,160" concept="5" />
+      <node id="7225199418847056229" at="194,160,195,34" concept="1" />
+      <node id="7225199418847056229" at="195,34,196,105" concept="1" />
+      <node id="7225199418847056229" at="196,105,197,17" concept="1" />
+      <node id="7225199418847064957" at="197,17,198,197" concept="1" />
+      <node id="7225199418847073369" at="198,197,199,197" concept="1" />
+      <node id="7225199418847056229" at="199,197,200,22" concept="6" />
+      <node id="7225199418847056229" at="193,0,202,0" concept="8" trace="createDescriptorForGridtape#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847056229" at="87,42,88,33" />
+      <scope id="7225199418847056229" at="193,66,200,22">
+        <var name="b" id="7225199418847056229" />
+      </scope>
+      <scope id="7225199418847056229" at="193,0,202,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847061388">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847061388" at="21,0,22,0" concept="2" trace="props_GridtapeSize" />
+      <node id="7225199418847061388" at="106,41,107,76" concept="5" />
+      <node id="7225199418847061388" at="107,76,108,46" concept="1" />
+      <node id="7225199418847061388" at="108,46,109,44" concept="1" />
+      <node id="7225199418847061388" at="110,9,111,34" concept="6" />
+      <node id="7225199418847061388" at="105,46,110,9" concept="3" />
+      <scope id="7225199418847061388" at="106,41,109,44">
+        <var name="cpb" id="7225199418847061388" />
+      </scope>
+      <scope id="7225199418847061388" at="105,46,111,34" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847061388" at="21,0,22,0" concept="7" trace="GridtapeSize" />
+      <node id="7225199418847061388" at="47,52,48,51" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847061388" at="28,0,29,0" concept="2" trace="myConceptGridtapeSize" />
+      <node id="7225199418847061388" at="91,46,92,37" concept="6" />
+      <node id="7225199418847061388" at="210,70,211,164" concept="5" />
+      <node id="7225199418847061388" at="211,164,212,34" concept="1" />
+      <node id="7225199418847061388" at="212,34,213,105" concept="1" />
+      <node id="7225199418847061388" at="213,105,214,17" concept="1" />
+      <node id="7225199418847062013" at="214,17,215,174" concept="1" />
+      <node id="7225199418847061388" at="215,174,216,22" concept="6" />
+      <node id="7225199418847061388" at="210,0,218,0" concept="8" trace="createDescriptorForGridtapeSize#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847061388" at="91,46,92,37" />
+      <scope id="7225199418847061388" at="210,70,216,22">
+        <var name="b" id="7225199418847061388" />
+      </scope>
+      <scope id="7225199418847061388" at="210,0,218,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847062197">
+    <file name="EnumerationDescriptor_GridtapeSizeEnum.java">
+      <node id="7225199418847062197" at="14,51,15,184" concept="9" />
+      <node id="7225199418847062198" at="18,0,19,0" concept="2" trace="myMember_fit_0" />
+      <node id="7225199418847062460" at="19,0,20,0" concept="2" trace="myMember_small_0" />
+      <node id="7225199418847062197" at="21,0,22,0" concept="2" trace="myIndex" />
+      <node id="7225199418847062197" at="22,0,23,0" concept="2" trace="myMembers" />
+      <node id="7225199418847062197" at="26,62,27,16" concept="6" />
+      <node id="7225199418847062197" at="32,68,33,21" concept="6" />
+      <node id="7225199418847062197" at="39,29,40,18" concept="6" />
+      <node id="7225199418847062198" at="43,17,44,30" concept="6" />
+      <node id="7225199418847062460" at="45,19,46,32" concept="6" />
+      <node id="7225199418847062197" at="47,5,48,16" concept="6" />
+      <node id="7225199418847062197" at="53,73,54,39" concept="5" />
+      <node id="7225199418847062197" at="55,22,56,18" concept="6" />
+      <node id="7225199418847062197" at="57,5,58,32" concept="6" />
+      <node id="7225199418847062197" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_GridtapeSizeEnum#()V" />
+      <node id="7225199418847062197" at="38,88,41,5" concept="3" />
+      <node id="7225199418847062197" at="54,39,57,5" concept="3" />
+      <node id="7225199418847062197" at="24,0,29,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418847062197" at="30,0,35,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418847062197" at="41,5,47,5" concept="10" />
+      <node id="7225199418847062197" at="51,0,60,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418847062197" at="36,0,50,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418847062197" at="14,51,15,184" />
+      <scope id="7225199418847062197" at="26,62,27,16" />
+      <scope id="7225199418847062197" at="32,68,33,21" />
+      <scope id="7225199418847062197" at="39,29,40,18" />
+      <scope id="7225199418847062198" at="43,17,44,30" />
+      <scope id="7225199418847062460" at="45,19,46,32" />
+      <scope id="7225199418847062197" at="55,22,56,18" />
+      <scope id="7225199418847062197" at="14,0,17,0" />
+      <scope id="7225199418847062197" at="24,0,29,0" />
+      <scope id="7225199418847062197" at="30,0,35,0" />
+      <scope id="7225199418847062197" at="53,73,58,32">
+        <var name="index" id="7225199418847062197" />
+      </scope>
+      <scope id="7225199418847062197" at="51,0,60,0">
+        <var name="idValue" id="7225199418847062197" />
+      </scope>
+      <scope id="7225199418847062197" at="38,88,48,16" />
+      <scope id="7225199418847062197" at="36,0,50,0">
+        <var name="memberName" id="7225199418847062197" />
+      </scope>
+      <unit id="7225199418847062197" at="12,0,61,0" name="SkateboardLanguage.structure.EnumerationDescriptor_GridtapeSizeEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847062197" at="47,0,48,0" concept="2" trace="myEnumerationGridtapeSizeEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847070738">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847070738" at="20,0,21,0" concept="2" trace="props_GridtapeColor" />
+      <node id="7225199418847070738" at="99,42,100,76" concept="5" />
+      <node id="7225199418847070738" at="100,76,101,47" concept="1" />
+      <node id="7225199418847070738" at="101,47,102,45" concept="1" />
+      <node id="7225199418847070738" at="103,9,104,35" concept="6" />
+      <node id="7225199418847070738" at="98,47,103,9" concept="3" />
+      <scope id="7225199418847070738" at="99,42,102,45">
+        <var name="cpb" id="7225199418847070738" />
+      </scope>
+      <scope id="7225199418847070738" at="98,47,104,35" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847070738" at="20,0,21,0" concept="7" trace="GridtapeColor" />
+      <node id="7225199418847070738" at="46,47,47,52" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847070738" at="27,0,28,0" concept="2" trace="myConceptGridtapeColor" />
+      <node id="7225199418847070738" at="89,47,90,38" concept="6" />
+      <node id="7225199418847070738" at="202,71,203,165" concept="5" />
+      <node id="7225199418847070738" at="203,165,204,34" concept="1" />
+      <node id="7225199418847070738" at="204,34,205,105" concept="1" />
+      <node id="7225199418847070738" at="205,105,206,17" concept="1" />
+      <node id="7225199418847071259" at="206,17,207,175" concept="1" />
+      <node id="7225199418847070738" at="207,175,208,22" concept="6" />
+      <node id="7225199418847070738" at="202,0,210,0" concept="8" trace="createDescriptorForGridtapeColor#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847070738" at="89,47,90,38" />
+      <scope id="7225199418847070738" at="202,71,208,22">
+        <var name="b" id="7225199418847070738" />
+      </scope>
+      <scope id="7225199418847070738" at="202,0,210,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847075094">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847075094" at="23,0,24,0" concept="2" trace="props_Rails" />
+      <node id="7225199418847075094" at="120,34,121,76" concept="5" />
+      <node id="7225199418847075094" at="121,76,122,39" concept="1" />
+      <node id="7225199418847075094" at="122,39,123,37" concept="1" />
+      <node id="7225199418847075094" at="124,9,125,27" concept="6" />
+      <node id="7225199418847075094" at="119,39,124,9" concept="3" />
+      <scope id="7225199418847075094" at="120,34,123,37">
+        <var name="cpb" id="7225199418847075094" />
+      </scope>
+      <scope id="7225199418847075094" at="119,39,125,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847075094" at="23,0,24,0" concept="7" trace="Rails" />
+      <node id="7225199418847075094" at="49,45,50,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847075094" at="30,0,31,0" concept="2" trace="myConceptRails" />
+      <node id="7225199418847075094" at="95,39,96,30" concept="6" />
+      <node id="7225199418847075094" at="226,63,227,157" concept="5" />
+      <node id="7225199418847075094" at="227,157,228,34" concept="1" />
+      <node id="7225199418847075094" at="228,34,229,105" concept="1" />
+      <node id="7225199418847075094" at="229,105,230,17" concept="1" />
+      <node id="7225199418847082085" at="230,17,231,197" concept="1" />
+      <node id="7225199418847084381" at="231,197,232,197" concept="1" />
+      <node id="7225199418847075094" at="232,197,233,22" concept="6" />
+      <node id="7225199418847075094" at="226,0,235,0" concept="8" trace="createDescriptorForRails#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847075094" at="95,39,96,30" />
+      <scope id="7225199418847075094" at="226,63,233,22">
+        <var name="b" id="7225199418847075094" />
+      </scope>
+      <scope id="7225199418847075094" at="226,0,235,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847079690">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847079690" at="24,0,25,0" concept="2" trace="props_RailsSize" />
+      <node id="7225199418847079690" at="127,38,128,76" concept="5" />
+      <node id="7225199418847079690" at="128,76,129,43" concept="1" />
+      <node id="7225199418847079690" at="129,43,130,41" concept="1" />
+      <node id="7225199418847079690" at="131,9,132,31" concept="6" />
+      <node id="7225199418847079690" at="126,43,131,9" concept="3" />
+      <scope id="7225199418847079690" at="127,38,130,41">
+        <var name="cpb" id="7225199418847079690" />
+      </scope>
+      <scope id="7225199418847079690" at="126,43,132,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847079690" at="24,0,25,0" concept="7" trace="RailsSize" />
+      <node id="7225199418847079690" at="50,44,51,48" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847079690" at="31,0,32,0" concept="2" trace="myConceptRailsSize" />
+      <node id="7225199418847079690" at="97,43,98,34" concept="6" />
+      <node id="7225199418847079690" at="235,67,236,161" concept="5" />
+      <node id="7225199418847079690" at="236,161,237,34" concept="1" />
+      <node id="7225199418847079690" at="237,34,238,105" concept="1" />
+      <node id="7225199418847079690" at="238,105,239,17" concept="1" />
+      <node id="7225199418847080107" at="239,17,240,174" concept="1" />
+      <node id="7225199418847079690" at="240,174,241,22" concept="6" />
+      <node id="7225199418847079690" at="235,0,243,0" concept="8" trace="createDescriptorForRailsSize#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847079690" at="97,43,98,34" />
+      <scope id="7225199418847079690" at="235,67,241,22">
+        <var name="b" id="7225199418847079690" />
+      </scope>
+      <scope id="7225199418847079690" at="235,0,243,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847086049">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847086049" at="25,0,26,0" concept="2" trace="props_Risers" />
+      <node id="7225199418847086049" at="134,35,135,76" concept="5" />
+      <node id="7225199418847086049" at="135,76,136,40" concept="1" />
+      <node id="7225199418847086049" at="136,40,137,38" concept="1" />
+      <node id="7225199418847086049" at="138,9,139,28" concept="6" />
+      <node id="7225199418847086049" at="133,40,138,9" concept="3" />
+      <scope id="7225199418847086049" at="134,35,137,38">
+        <var name="cpb" id="7225199418847086049" />
+      </scope>
+      <scope id="7225199418847086049" at="133,40,139,28" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847086049" at="25,0,26,0" concept="7" trace="Risers" />
+      <node id="7225199418847086049" at="51,48,52,45" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847086049" at="32,0,33,0" concept="2" trace="myConceptRisers" />
+      <node id="7225199418847086049" at="99,40,100,31" concept="6" />
+      <node id="7225199418847086049" at="243,64,244,158" concept="5" />
+      <node id="7225199418847086049" at="244,158,245,34" concept="1" />
+      <node id="7225199418847086049" at="245,34,246,105" concept="1" />
+      <node id="7225199418847086049" at="246,105,247,17" concept="1" />
+      <node id="7225199418847095117" at="247,17,248,197" concept="1" />
+      <node id="7225199418847099203" at="248,197,249,197" concept="1" />
+      <node id="7225199418847086049" at="249,197,250,22" concept="6" />
+      <node id="7225199418847086049" at="243,0,252,0" concept="8" trace="createDescriptorForRisers#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847086049" at="99,40,100,31" />
+      <scope id="7225199418847086049" at="243,64,250,22">
+        <var name="b" id="7225199418847086049" />
+      </scope>
+      <scope id="7225199418847086049" at="243,0,252,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847091464">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847091464" at="27,0,28,0" concept="2" trace="props_RisersSize" />
+      <node id="7225199418847091464" at="148,39,149,76" concept="5" />
+      <node id="7225199418847091464" at="149,76,150,44" concept="1" />
+      <node id="7225199418847091464" at="150,44,151,42" concept="1" />
+      <node id="7225199418847091464" at="152,9,153,32" concept="6" />
+      <node id="7225199418847091464" at="147,44,152,9" concept="3" />
+      <scope id="7225199418847091464" at="148,39,151,42">
+        <var name="cpb" id="7225199418847091464" />
+      </scope>
+      <scope id="7225199418847091464" at="147,44,153,32" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847091464" at="27,0,28,0" concept="7" trace="RisersSize" />
+      <node id="7225199418847091464" at="53,50,54,49" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847091464" at="34,0,35,0" concept="2" trace="myConceptRisersSize" />
+      <node id="7225199418847091464" at="103,44,104,35" concept="6" />
+      <node id="7225199418847091464" at="260,68,261,162" concept="5" />
+      <node id="7225199418847091464" at="261,162,262,34" concept="1" />
+      <node id="7225199418847091464" at="262,34,263,105" concept="1" />
+      <node id="7225199418847091464" at="263,105,264,17" concept="1" />
+      <node id="7225199418847093141" at="264,17,265,174" concept="1" />
+      <node id="7225199418847091464" at="265,174,266,22" concept="6" />
+      <node id="7225199418847091464" at="260,0,268,0" concept="8" trace="createDescriptorForRisersSize#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847091464" at="103,44,104,35" />
+      <scope id="7225199418847091464" at="260,68,266,22">
+        <var name="b" id="7225199418847091464" />
+      </scope>
+      <scope id="7225199418847091464" at="260,0,268,0" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847092142">
+    <file name="EnumerationDescriptor_RisersSizeEnum.java">
+      <node id="7225199418847092142" at="14,49,15,182" concept="9" />
+      <node id="7225199418847092143" at="18,0,19,0" concept="2" trace="myMember_medium_0" />
+      <node id="7225199418847092745" at="19,0,20,0" concept="2" trace="myMember_short_0" />
+      <node id="7225199418847092378" at="20,0,21,0" concept="2" trace="myMember_tall_0" />
+      <node id="7225199418847092142" at="22,0,23,0" concept="2" trace="myIndex" />
+      <node id="7225199418847092142" at="23,0,24,0" concept="2" trace="myMembers" />
+      <node id="7225199418847092142" at="27,62,28,16" concept="6" />
+      <node id="7225199418847092142" at="33,68,34,21" concept="6" />
+      <node id="7225199418847092142" at="40,29,41,18" concept="6" />
+      <node id="7225199418847092143" at="44,20,45,33" concept="6" />
+      <node id="7225199418847092745" at="46,19,47,32" concept="6" />
+      <node id="7225199418847092378" at="48,18,49,31" concept="6" />
+      <node id="7225199418847092142" at="50,5,51,16" concept="6" />
+      <node id="7225199418847092142" at="56,73,57,39" concept="5" />
+      <node id="7225199418847092142" at="58,22,59,18" concept="6" />
+      <node id="7225199418847092142" at="60,5,61,32" concept="6" />
+      <node id="7225199418847092142" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_RisersSizeEnum#()V" />
+      <node id="7225199418847092142" at="39,88,42,5" concept="3" />
+      <node id="7225199418847092142" at="57,39,60,5" concept="3" />
+      <node id="7225199418847092142" at="25,0,30,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418847092142" at="31,0,36,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="7225199418847092142" at="42,5,50,5" concept="10" />
+      <node id="7225199418847092142" at="54,0,63,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="7225199418847092142" at="37,0,53,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="7225199418847092142" at="14,49,15,182" />
+      <scope id="7225199418847092142" at="27,62,28,16" />
+      <scope id="7225199418847092142" at="33,68,34,21" />
+      <scope id="7225199418847092142" at="40,29,41,18" />
+      <scope id="7225199418847092143" at="44,20,45,33" />
+      <scope id="7225199418847092745" at="46,19,47,32" />
+      <scope id="7225199418847092378" at="48,18,49,31" />
+      <scope id="7225199418847092142" at="58,22,59,18" />
+      <scope id="7225199418847092142" at="14,0,17,0" />
+      <scope id="7225199418847092142" at="25,0,30,0" />
+      <scope id="7225199418847092142" at="31,0,36,0" />
+      <scope id="7225199418847092142" at="56,73,61,32">
+        <var name="index" id="7225199418847092142" />
+      </scope>
+      <scope id="7225199418847092142" at="54,0,63,0">
+        <var name="idValue" id="7225199418847092142" />
+      </scope>
+      <scope id="7225199418847092142" at="39,88,51,16" />
+      <scope id="7225199418847092142" at="37,0,53,0">
+        <var name="memberName" id="7225199418847092142" />
+      </scope>
+      <unit id="7225199418847092142" at="12,0,64,0" name="SkateboardLanguage.structure.EnumerationDescriptor_RisersSizeEnum" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847092142" at="49,0,50,0" concept="2" trace="myEnumerationRisersSizeEnum" />
+    </file>
+  </root>
+  <root nodeRef="r:1a9f7ae8-02f9-4e05-b5c0-b834b94e8a1b(SkateboardLanguage.structure)/7225199418847096940">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7225199418847096940" at="26,0,27,0" concept="2" trace="props_RisersColor" />
+      <node id="7225199418847096940" at="141,40,142,76" concept="5" />
+      <node id="7225199418847096940" at="142,76,143,45" concept="1" />
+      <node id="7225199418847096940" at="143,45,144,43" concept="1" />
+      <node id="7225199418847096940" at="145,9,146,33" concept="6" />
+      <node id="7225199418847096940" at="140,45,145,9" concept="3" />
+      <scope id="7225199418847096940" at="141,40,144,43">
+        <var name="cpb" id="7225199418847096940" />
+      </scope>
+      <scope id="7225199418847096940" at="140,45,146,33" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7225199418847096940" at="26,0,27,0" concept="7" trace="RisersColor" />
+      <node id="7225199418847096940" at="52,45,53,50" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7225199418847096940" at="33,0,34,0" concept="2" trace="myConceptRisersColor" />
+      <node id="7225199418847096940" at="101,45,102,36" concept="6" />
+      <node id="7225199418847096940" at="252,69,253,163" concept="5" />
+      <node id="7225199418847096940" at="253,163,254,34" concept="1" />
+      <node id="7225199418847096940" at="254,34,255,105" concept="1" />
+      <node id="7225199418847096940" at="255,105,256,17" concept="1" />
+      <node id="7225199418847097435" at="256,17,257,175" concept="1" />
+      <node id="7225199418847096940" at="257,175,258,22" concept="6" />
+      <node id="7225199418847096940" at="252,0,260,0" concept="8" trace="createDescriptorForRisersColor#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7225199418847096940" at="101,45,102,36" />
+      <scope id="7225199418847096940" at="252,69,258,22">
+        <var name="b" id="7225199418847096940" />
+      </scope>
+      <scope id="7225199418847096940" at="252,0,260,0" />
+    </file>
+  </root>
+</debug-info>
+
